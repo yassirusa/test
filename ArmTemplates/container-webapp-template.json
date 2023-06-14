@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "webAppName": {
-            "type": "String"
+            "type": "String1"
         },
         "hostingPlanName": {
             "type": "String"
