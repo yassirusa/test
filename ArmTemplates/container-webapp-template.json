@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.1",
     "parameters": {
         "webAppName": {
-            "type": "Complex"
+            "type": "Complex" //not on release
         },
         "hostingPlanName": {
             "type": "String"
