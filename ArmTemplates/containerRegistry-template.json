@@ -1,7 +1,7 @@
 {
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
     "contentVersion": "1.0.0.1", //This is a commit that's in 1.5
-    "parameters": {
+    "parameters": { //This is a commit that's not in 1.5
         "registryName": {
             "type": "String"
         },
